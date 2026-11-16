@@ -2,8 +2,11 @@
 
 Writes two small CSV files that the Google Sheet reads with IMPORTDATA:
   results_<season>.csv   week, place, and the top 12 passers, rushers and
-                         receivers. Always 18 x 12 rows so each row lines up
-                         with the sheet; weeks not yet finished are blank.
+                         receivers with yards and "touches" (pass attempts,
+                         carries, receptions). League rule: on equal yards the
+                         player with FEWER touches ranks higher. Always 18 x 12
+                         rows so each row lines up with the sheet; weeks not
+                         yet finished are blank.
   players_<season>.csv   every player with yards this season (spell check).
 
 Standard library only. Source: the public nflverse data files.
@@ -16,6 +19,8 @@ STATS = ("https://github.com/nflverse/nflverse-data/releases/download/"
          f"stats_player/stats_player_week_{SEASON}.csv")
 GAMES = "https://github.com/nflverse/nfldata/raw/master/data/games.csv"
 CATS = ("passing_yards", "rushing_yards", "receiving_yards")
+TOUCHES = {"passing_yards": "attempts", "rushing_yards": "carries",
+           "receiving_yards": "receptions"}
 
 
 def fetch(url):
@@ -50,9 +55,10 @@ def leaders(stats, weeks):
                 continue
             players.add(r["player_display_name"])
             if (w, c) in top:
-                top[(w, c)].append((r["player_display_name"], int(y)))
-    for k in top:                      # yards high to low, then name
-        top[k] = sorted(top[k], key=lambda t: (-t[1], t[0]))[:PLACES]
+                top[(w, c)].append((r["player_display_name"], int(y),
+                                    int(float(r[TOUCHES[c]] or 0))))
+    for k in top:                      # yards high to low, fewest touches, name
+        top[k] = sorted(top[k], key=lambda t: (-t[1], t[2], t[0]))[:PLACES]
     return top, sorted(players)
 
 
@@ -63,14 +69,15 @@ def main():
         sys.exit("no finished weeks or no players found: leaving files untouched")
     with open(f"results_{SEASON}.csv", "w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["week", "place", "pass_player", "pass_yds", "rush_player",
-                    "rush_yds", "rec_player", "rec_yds"])
+        w.writerow(["week", "place", "pass_player", "pass_yds", "pass_att",
+                    "rush_player", "rush_yds", "rush_car",
+                    "rec_player", "rec_yds", "rec_rec"])
         for wk in range(1, WEEKS + 1):
             for p in range(PLACES):
                 row = [wk, p + 1]
                 for c in CATS:
                     got = top.get((wk, c), [])
-                    row += list(got[p]) if p < len(got) else ["", ""]
+                    row += list(got[p]) if p < len(got) else ["", "", ""]
                 w.writerow(row)
     with open(f"players_{SEASON}.csv", "w", newline="") as f:
         w = csv.writer(f)
