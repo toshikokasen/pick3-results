@@ -2,7 +2,7 @@
 
 Writes two small CSV files that the Google Sheet reads with IMPORTDATA:
   results_<season>.csv   week, place, and the top 12 passers, rushers and
-                         receivers with yards and "touches" (pass attempts,
+                         receivers with yards and "touches" (completions,
                          carries, receptions). League rule: on equal yards the
                          player with FEWER touches ranks higher. Always 18 x 12
                          rows so each row lines up with the sheet; weeks not
@@ -19,7 +19,7 @@ STATS = ("https://github.com/nflverse/nflverse-data/releases/download/"
          f"stats_player/stats_player_week_{SEASON}.csv")
 GAMES = "https://github.com/nflverse/nfldata/raw/master/data/games.csv"
 CATS = ("passing_yards", "rushing_yards", "receiving_yards")
-TOUCHES = {"passing_yards": "attempts", "rushing_yards": "carries",
+TOUCHES = {"passing_yards": "completions", "rushing_yards": "carries",
            "receiving_yards": "receptions"}
 
 
@@ -69,7 +69,7 @@ def main():
         sys.exit("no finished weeks or no players found: leaving files untouched")
     with open(f"results_{SEASON}.csv", "w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["week", "place", "pass_player", "pass_yds", "pass_att",
+        w.writerow(["week", "place", "pass_player", "pass_yds", "pass_cmp",
                     "rush_player", "rush_yds", "rush_car",
                     "rec_player", "rec_yds", "rec_rec"])
         for wk in range(1, WEEKS + 1):

@@ -1,112 +1,112 @@
-week,place,pass_player,pass_yds,pass_att,rush_player,rush_yds,rush_car,rec_player,rec_yds,rec_rec
-1,1,Tyler Shough,410,56,Kenneth Walker III,173,23,Chris Olave,182,10
-1,2,Jordan Love,387,42,Jahmyr Gibbs,156,29,Zay Flowers,150,5
-1,3,Bryce Young,361,37,Derrick Henry,144,24,Christian Watson,147,6
-1,4,Josh Allen,334,29,D'Andre Swift,124,18,Jalen Coker,138,8
-1,5,Lamar Jackson,324,25,Breece Hall,102,22,Dalton Kincaid,130,5
-1,6,Jacoby Brissett,277,37,Ashton Jeanty,102,23,Jaxon Smith-Njigba,122,8
-1,7,C.J. Stroud,274,38,Kyle Monangai,100,10,DJ Moore,100,5
-1,8,Caleb Williams,269,29,Jonathan Taylor,98,19,Matthew Golden,95,6
-1,9,Joe Burrow,254,35,Saquon Barkley,83,15,Trey McBride,95,9
-1,10,Trevor Lawrence,245,23,Bijan Robinson,83,21,Caleb Douglas,94,5
-1,11,Jaxson Dart,230,29,Cam Skattebo,81,18,Justin Jefferson,92,8
-1,12,Aaron Rodgers,221,40,Christian McCaffrey,68,10,Bijan Robinson,90,8
-2,1,Patrick Mahomes,382,47,James Cook,135,21,Davante Adams,195,8
-2,2,C.J. Stroud,353,55,Kenneth Walker III,117,24,Jaxon Smith-Njigba,155,9
-2,3,Matthew Stafford,327,31,Aaron Jones,105,23,CeeDee Lamb,153,8
-2,4,Jared Goff,327,38,Omarion Hampton,94,23,Amon-Ra St. Brown,142,9
-2,5,Bo Nix,288,31,Emanuel Wilson,92,21,Dalton Schultz,140,12
-2,6,Brock Purdy,287,22,Jonathan Taylor,92,24,Jaylen Waddle,138,8
-2,7,Bryce Young,287,36,Bucky Irving,89,17,Tre Tucker,119,5
-2,8,Dak Prescott,279,31,Kyren Williams,85,12,DeVonta Smith,117,10
-2,9,Jalen Hurts,264,37,Chase Brown,80,20,Tetairoa McMillan,101,5
-2,10,Kirk Cousins,253,29,Blake Corum,79,12,Travis Kelce,101,9
-2,11,Tyler Shough,252,34,TreVeyon Henderson,76,16,Parker Washington,98,7
-2,12,Josh Allen,248,31,De'Von Achane,74,20,Romeo Doubs,96,3
-3,1,Matthew Stafford,390,55,Bijan Robinson,194,29,Drake London,194,9
-3,2,Sam Darnold,379,45,James Cook,154,24,Davante Adams,137,7
-3,3,Geno Smith,321,37,Jaylen Warren,127,17,Jaxon Smith-Njigba,128,10
-3,4,Jordan Love,312,53,Jahmyr Gibbs,99,20,Brock Bowers,116,10
-3,5,Brock Purdy,297,27,Javonte Williams,98,19,CeeDee Lamb,112,7
-3,6,Aaron Rodgers,292,34,Jeremiyah Love,90,21,Chris Olave,107,9
-3,7,Bryce Young,291,48,Derrick Henry,89,26,Garrett Wilson,107,10
-3,8,Joe Burrow,282,37,Kyren Williams,88,15,Kenyon Sadiq,105,7
-3,9,Jacoby Brissett,280,52,D'Andre Swift,84,20,Matthew Golden,100,5
-3,10,Dak Prescott,276,40,Saquon Barkley,82,15,Ja'Marr Chase,98,9
-3,11,Jared Goff,269,32,Chuba Hubbard,82,19,Christian Watson,96,7
-3,12,Michael Penix Jr.,256,25,Christian McCaffrey,75,15,Konata Mumpfield,93,4
-4,1,Joe Burrow,428,54,Kenneth Walker III,177,22,Tetairoa McMillan,192,14
-4,2,Jared Goff,412,52,Kyle Monangai,146,30,CeeDee Lamb,189,17
-4,3,Kirk Cousins,365,52,Bijan Robinson,145,19,Tee Higgins,157,11
-4,4,C.J. Stroud,347,31,Chuba Hubbard,122,20,Carnell Tate,145,9
-4,5,Dak Prescott,335,45,Ollie Gordon II,100,9,Puka Nacua,125,9
-4,6,Bryce Young,329,41,Jonathan Taylor,95,20,T.J. Hockenson,119,13
-4,7,Matthew Stafford,317,51,Aaron Jones,94,20,Nico Collins,118,7
-4,8,Aaron Rodgers,299,40,Jaylen Warren,93,17,Zay Flowers,118,8
-4,9,Tyler Shough,286,48,Emanuel Wilson,81,21,Keon Coleman,116,6
-4,10,Drake Maye,269,37,Kyren Williams,80,16,Chris Olave,116,8
-4,11,Deshaun Watson,268,33,James Cook,75,12,DK Metcalf,115,5
-4,12,Tyson Bagent,268,34,Bhayshul Tuten,73,17,Malik Nabers,112,6
-5,1,Matthew Stafford,383,54,Bucky Irving,165,21,Christian Watson,143,6
-5,2,Drake Maye,374,34,Jahmyr Gibbs,151,25,Puka Nacua,138,17
-5,3,Jordan Love,367,31,Josh Allen,121,10,George Pickens,130,9
-5,4,Trevor Lawrence,331,39,Braelon Allen,116,24,Parker Washington,124,6
-5,5,Jameis Winston,326,54,Aaron Jones,113,25,Matthew Golden,123,6
-5,6,Dak Prescott,316,42,James Cook,111,25,Malik Nabers,121,11
-5,7,Jacoby Brissett,292,47,Jayden Daniels,103,9,Drake London,118,7
-5,8,Jared Goff,271,30,Derrick Henry,102,24,Mike Evans,113,7
-5,9,Daniel Jones,267,44,Jaylen Warren,101,15,Brock Bowers,110,8
-5,10,C.J. Stroud,261,34,Ollie Gordon II,88,18,Garrett Wilson,104,7
-5,11,Kirk Cousins,243,28,Bijan Robinson,86,17,Jaxon Smith-Njigba,102,5
-5,12,Michael Penix Jr.,240,32,Jacory Croskey-Merritt,82,11,Isaiah Likely,94,11
-6,1,Kirk Cousins,313,41,Kenneth Walker III,128,19,Malik Nabers,165,12
-6,2,C.J. Stroud,312,34,Chuba Hubbard,120,28,Jaxon Smith-Njigba,134,12
-6,3,Trevor Lawrence,306,41,James Cook,95,22,Jaylin Noel,107,4
-6,4,Caleb Williams,305,36,Jonathan Taylor,94,21,Matthew Golden,104,6
-6,5,Jayden Daniels,300,40,Bam Knight,80,15,Omar Cooper Jr.,103,6
-6,6,Bryce Young,281,39,Braelon Allen,78,17,Isaiah Likely,99,6
-6,7,Sam Darnold,278,51,Tony Pollard,76,19,Tre Tucker,97,5
-6,8,Jordan Love,276,41,Kendre Miller,70,20,Jalen Coker,97,6
-6,9,Patrick Mahomes,272,30,Christian McCaffrey,64,16,Michael Mayer,95,7
-6,10,Daniel Jones,269,42,Bijan Robinson,61,9,Luther Burden III,95,8
-6,11,Brock Purdy,264,29,Derrick Henry,58,17,Mike Evans,94,3
-6,12,Dak Prescott,258,54,Corey Kiner,57,11,DK Metcalf,93,11
-7,1,Drake Maye,321,31,Javonte Williams,155,25,Amon-Ra St. Brown,153,9
-7,2,Caleb Williams,308,33,Tony Pollard,129,25,Jaxon Smith-Njigba,150,9
-7,3,Deshaun Watson,308,36,Cam Skattebo,124,17,Tee Higgins,148,6
-7,4,Jared Goff,303,32,Jahmyr Gibbs,116,29,Zay Flowers,137,8
-7,5,Tyler Huntley,298,34,Bucky Irving,106,24,Luther Burden III,130,4
-7,6,Kirk Cousins,295,44,Braelon Allen,104,17,KC Concepcion,129,8
-7,7,Joe Burrow,292,30,Ollie Gordon II,103,25,Omar Cooper Jr.,115,5
-7,8,Brock Purdy,288,40,Jaylen Warren,101,18,Malik Nabers,111,7
-7,9,Geno Smith,287,30,Emanuel Wilson,100,24,Trey McBride,111,10
-7,10,Tyler Shough,278,38,Kyren Williams,99,16,Tre Tucker,103,5
-7,11,Jordan Love,274,45,Quinshon Judkins,96,17,Rhamondre Stevenson,93,5
-7,12,Jacoby Brissett,272,48,Jonathan Taylor,95,18,Jameson Williams,91,5
-8,1,Joe Burrow,462,48,Bucky Irving,170,27,Tee Higgins,155,10
-8,2,Deshaun Watson,324,39,Jahmyr Gibbs,153,23,Harold Fannin Jr.,154,10
-8,3,Patrick Mahomes,321,41,Tyler Allgeier,147,11,Adonai Mitchell,142,7
-8,4,Cam Ward,304,40,Braelon Allen,147,21,Ja'Marr Chase,141,11
-8,5,Geno Smith,290,32,Jaylen Warren,143,17,Emmett Johnson,128,5
-8,6,Josh Allen,289,34,Kenny Gainwell,140,25,Jaxon Smith-Njigba,118,6
-8,7,Jordan Love,288,41,Tony Pollard,117,21,Christian Watson,113,8
-8,8,Justin Herbert,257,32,Bhayshul Tuten,104,16,Michael Wilson,111,8
-8,9,Kirk Cousins,247,26,Mike Washington Jr.,83,25,Jahan Dotson,95,2
-8,10,Caleb Williams,247,34,Rhamondre Stevenson,82,19,Darnell Washington,94,3
-8,11,Bo Nix,222,32,Chuba Hubbard,81,22,Brock Bowers,92,7
-8,12,Jayden Daniels,217,29,James Cook,80,21,Rome Odunze,87,4
-9,1,C.J. Stroud,384,35,James Cook,107,31,CeeDee Lamb,195,10
-9,2,Jordan Love,372,29,Kenneth Walker III,102,18,Christian Watson,171,7
-9,3,Dak Prescott,335,34,Javonte Williams,101,20,Matthew Golden,164,10
-9,4,Drake Maye,299,38,Bijan Robinson,100,19,Ja'Marr Chase,155,10
-9,5,Shedeur Sanders,297,31,Bucky Irving,97,20,Puka Nacua,150,14
-9,6,Caleb Williams,279,37,Justice Hill,85,9,Kayshon Boutte,125,4
-9,7,Bryce Young,276,39,Chuba Hubbard,79,16,Brock Bowers,111,7
-9,8,Jayden Daniels,274,35,Tyler Goodson,77,12,Tank Dell,105,4
-9,9,Joe Burrow,271,29,Zach Charbonnet,77,16,DeMario Douglas,102,5
-9,10,Tyler Shough,265,35,Jahmyr Gibbs,74,20,Denzel Boston,98,6
-9,11,Baker Mayfield,243,32,Audric Estime,72,15,Chris Olave,98,7
-9,12,Trevor Lawrence,242,26,Kaelon Black,70,11,Luther Burden III,97,7
+week,place,pass_player,pass_yds,pass_cmp,rush_player,rush_yds,rush_car,rec_player,rec_yds,rec_rec
+1,1,Tyler Shough,410,35,Kenneth Walker III,173,23,Chris Olave,182,10
+1,2,Jordan Love,387,21,Jahmyr Gibbs,156,29,Zay Flowers,150,5
+1,3,Bryce Young,361,23,Derrick Henry,144,24,Christian Watson,147,6
+1,4,Josh Allen,334,20,D'Andre Swift,124,18,Jalen Coker,138,8
+1,5,Lamar Jackson,324,17,Breece Hall,102,22,Dalton Kincaid,130,5
+1,6,Jacoby Brissett,277,27,Ashton Jeanty,102,23,Jaxon Smith-Njigba,122,8
+1,7,C.J. Stroud,274,26,Kyle Monangai,100,10,DJ Moore,100,5
+1,8,Caleb Williams,269,21,Jonathan Taylor,98,19,Matthew Golden,95,6
+1,9,Joe Burrow,254,25,Saquon Barkley,83,15,Trey McBride,95,9
+1,10,Trevor Lawrence,245,18,Bijan Robinson,83,21,Caleb Douglas,94,5
+1,11,Jaxson Dart,230,23,Cam Skattebo,81,18,Justin Jefferson,92,8
+1,12,Aaron Rodgers,221,24,Christian McCaffrey,68,10,Bijan Robinson,90,8
+2,1,Patrick Mahomes,382,32,James Cook,135,21,Davante Adams,195,8
+2,2,C.J. Stroud,353,30,Kenneth Walker III,117,24,Jaxon Smith-Njigba,155,9
+2,3,Matthew Stafford,327,22,Aaron Jones,105,23,CeeDee Lamb,153,8
+2,4,Jared Goff,327,26,Omarion Hampton,94,23,Amon-Ra St. Brown,142,9
+2,5,Bo Nix,288,22,Emanuel Wilson,92,21,Dalton Schultz,140,12
+2,6,Brock Purdy,287,20,Jonathan Taylor,92,24,Jaylen Waddle,138,8
+2,7,Bryce Young,287,23,Bucky Irving,89,17,Tre Tucker,119,5
+2,8,Dak Prescott,279,26,Kyren Williams,85,12,DeVonta Smith,117,10
+2,9,Jalen Hurts,264,26,Chase Brown,80,20,Tetairoa McMillan,101,5
+2,10,Kirk Cousins,253,19,Blake Corum,79,12,Travis Kelce,101,9
+2,11,Tyler Shough,252,27,TreVeyon Henderson,76,16,Parker Washington,98,7
+2,12,Josh Allen,248,20,De'Von Achane,74,20,Romeo Doubs,96,3
+3,1,Matthew Stafford,390,30,Bijan Robinson,194,29,Drake London,194,9
+3,2,Sam Darnold,379,31,James Cook,154,24,Davante Adams,137,7
+3,3,Geno Smith,321,31,Jaylen Warren,127,17,Jaxon Smith-Njigba,128,10
+3,4,Jordan Love,312,28,Jahmyr Gibbs,99,20,Brock Bowers,116,10
+3,5,Brock Purdy,297,15,Javonte Williams,98,19,CeeDee Lamb,112,7
+3,6,Aaron Rodgers,292,19,Jeremiyah Love,90,21,Chris Olave,107,9
+3,7,Bryce Young,291,26,Derrick Henry,89,26,Garrett Wilson,107,10
+3,8,Joe Burrow,282,28,Kyren Williams,88,15,Kenyon Sadiq,105,7
+3,9,Jacoby Brissett,280,38,D'Andre Swift,84,20,Matthew Golden,100,5
+3,10,Dak Prescott,276,25,Saquon Barkley,82,15,Ja'Marr Chase,98,9
+3,11,Jared Goff,269,25,Chuba Hubbard,82,19,Christian Watson,96,7
+3,12,Michael Penix Jr.,256,18,Christian McCaffrey,75,15,Konata Mumpfield,93,4
+4,1,Joe Burrow,428,39,Kenneth Walker III,177,22,Tetairoa McMillan,192,14
+4,2,Jared Goff,412,32,Kyle Monangai,146,30,CeeDee Lamb,189,17
+4,3,Kirk Cousins,365,31,Bijan Robinson,145,19,Tee Higgins,157,11
+4,4,C.J. Stroud,347,21,Chuba Hubbard,122,20,Carnell Tate,145,9
+4,5,Dak Prescott,335,32,Ollie Gordon II,100,9,Puka Nacua,125,9
+4,6,Bryce Young,329,29,Jonathan Taylor,95,20,T.J. Hockenson,119,13
+4,7,Matthew Stafford,317,32,Aaron Jones,94,20,Nico Collins,118,7
+4,8,Aaron Rodgers,299,22,Jaylen Warren,93,17,Zay Flowers,118,8
+4,9,Tyler Shough,286,30,Emanuel Wilson,81,21,Keon Coleman,116,6
+4,10,Drake Maye,269,22,Kyren Williams,80,16,Chris Olave,116,8
+4,11,Deshaun Watson,268,24,James Cook,75,12,DK Metcalf,115,5
+4,12,Tyson Bagent,268,25,Bhayshul Tuten,73,17,Malik Nabers,112,6
+5,1,Matthew Stafford,383,40,Bucky Irving,165,21,Christian Watson,143,6
+5,2,Drake Maye,374,26,Jahmyr Gibbs,151,25,Puka Nacua,138,17
+5,3,Jordan Love,367,25,Josh Allen,121,10,George Pickens,130,9
+5,4,Trevor Lawrence,331,24,Braelon Allen,116,24,Parker Washington,124,6
+5,5,Jameis Winston,326,33,Aaron Jones,113,25,Matthew Golden,123,6
+5,6,Dak Prescott,316,24,James Cook,111,25,Malik Nabers,121,11
+5,7,Jacoby Brissett,292,29,Jayden Daniels,103,9,Drake London,118,7
+5,8,Jared Goff,271,19,Derrick Henry,102,24,Mike Evans,113,7
+5,9,Daniel Jones,267,24,Jaylen Warren,101,15,Brock Bowers,110,8
+5,10,C.J. Stroud,261,26,Ollie Gordon II,88,18,Garrett Wilson,104,7
+5,11,Kirk Cousins,243,19,Bijan Robinson,86,17,Jaxon Smith-Njigba,102,5
+5,12,Michael Penix Jr.,240,19,Jacory Croskey-Merritt,82,11,Isaiah Likely,94,11
+6,1,Kirk Cousins,313,23,Kenneth Walker III,128,19,Malik Nabers,165,12
+6,2,C.J. Stroud,312,24,Chuba Hubbard,120,28,Jaxon Smith-Njigba,134,12
+6,3,Trevor Lawrence,306,24,James Cook,95,22,Jaylin Noel,107,4
+6,4,Caleb Williams,305,30,Jonathan Taylor,94,21,Matthew Golden,104,6
+6,5,Jayden Daniels,300,29,Bam Knight,80,15,Omar Cooper Jr.,103,6
+6,6,Bryce Young,281,20,Braelon Allen,78,17,Isaiah Likely,99,6
+6,7,Sam Darnold,278,27,Tony Pollard,76,19,Tre Tucker,97,5
+6,8,Jordan Love,276,23,Kendre Miller,70,20,Jalen Coker,97,6
+6,9,Patrick Mahomes,272,23,Christian McCaffrey,64,16,Michael Mayer,95,7
+6,10,Daniel Jones,269,22,Bijan Robinson,61,9,Luther Burden III,95,8
+6,11,Brock Purdy,264,21,Derrick Henry,58,17,Mike Evans,94,3
+6,12,Dak Prescott,258,34,Corey Kiner,57,11,DK Metcalf,93,11
+7,1,Drake Maye,321,24,Javonte Williams,155,25,Amon-Ra St. Brown,153,9
+7,2,Caleb Williams,308,22,Tony Pollard,129,25,Jaxon Smith-Njigba,150,9
+7,3,Deshaun Watson,308,25,Cam Skattebo,124,17,Tee Higgins,148,6
+7,4,Jared Goff,303,22,Jahmyr Gibbs,116,29,Zay Flowers,137,8
+7,5,Tyler Huntley,298,23,Bucky Irving,106,24,Luther Burden III,130,4
+7,6,Kirk Cousins,295,26,Braelon Allen,104,17,KC Concepcion,129,8
+7,7,Joe Burrow,292,22,Ollie Gordon II,103,25,Omar Cooper Jr.,115,5
+7,8,Brock Purdy,288,27,Jaylen Warren,101,18,Malik Nabers,111,7
+7,9,Geno Smith,287,23,Emanuel Wilson,100,24,Trey McBride,111,10
+7,10,Tyler Shough,278,30,Kyren Williams,99,16,Tre Tucker,103,5
+7,11,Jordan Love,274,27,Quinshon Judkins,96,17,Rhamondre Stevenson,93,5
+7,12,Jacoby Brissett,272,27,Jonathan Taylor,95,18,Jameson Williams,91,5
+8,1,Joe Burrow,462,38,Bucky Irving,170,27,Tee Higgins,155,10
+8,2,Deshaun Watson,324,27,Jahmyr Gibbs,153,23,Harold Fannin Jr.,154,10
+8,3,Patrick Mahomes,321,30,Tyler Allgeier,147,11,Adonai Mitchell,142,7
+8,4,Cam Ward,304,26,Braelon Allen,147,21,Ja'Marr Chase,141,11
+8,5,Geno Smith,290,20,Jaylen Warren,143,17,Emmett Johnson,128,5
+8,6,Josh Allen,289,21,Kenny Gainwell,140,25,Jaxon Smith-Njigba,118,6
+8,7,Jordan Love,288,30,Tony Pollard,117,21,Christian Watson,113,8
+8,8,Justin Herbert,257,24,Bhayshul Tuten,104,16,Michael Wilson,111,8
+8,9,Kirk Cousins,247,19,Mike Washington Jr.,83,25,Jahan Dotson,95,2
+8,10,Caleb Williams,247,24,Rhamondre Stevenson,82,19,Darnell Washington,94,3
+8,11,Bo Nix,222,20,Chuba Hubbard,81,22,Brock Bowers,92,7
+8,12,Jayden Daniels,217,16,James Cook,80,21,Rome Odunze,87,4
+9,1,C.J. Stroud,384,21,James Cook,107,31,CeeDee Lamb,195,10
+9,2,Jordan Love,372,23,Kenneth Walker III,102,18,Christian Watson,171,7
+9,3,Dak Prescott,335,21,Javonte Williams,101,20,Matthew Golden,164,10
+9,4,Drake Maye,299,21,Bijan Robinson,100,19,Ja'Marr Chase,155,10
+9,5,Shedeur Sanders,297,19,Bucky Irving,97,20,Puka Nacua,150,14
+9,6,Caleb Williams,279,22,Justice Hill,85,9,Kayshon Boutte,125,4
+9,7,Bryce Young,276,28,Chuba Hubbard,79,16,Brock Bowers,111,7
+9,8,Jayden Daniels,274,24,Tyler Goodson,77,12,Tank Dell,105,4
+9,9,Joe Burrow,271,24,Zach Charbonnet,77,16,DeMario Douglas,102,5
+9,10,Tyler Shough,265,21,Jahmyr Gibbs,74,20,Denzel Boston,98,6
+9,11,Baker Mayfield,243,18,Audric Estime,72,15,Chris Olave,98,7
+9,12,Trevor Lawrence,242,16,Kaelon Black,70,11,Luther Burden III,97,7
 10,1,,,,,,,,,
 10,2,,,,,,,,,
 10,3,,,,,,,,,
